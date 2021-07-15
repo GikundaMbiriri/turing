@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&family=Indie+Flower&display=swap");
+.cont {
+  width: 400px;
+  height: 300px;
+  background-color: rgb(255, 0, 179);
+  margin: auto;
+}
+.df {
+  width: 100vw;
+}
+.avatar {
+  display: block;
+  margin: auto;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+.name {
+  text-align: center;
+  margin: auto;
+  font-size: 20px;
+}
+.name b {
+  font-family: "Indie Flower", cursive;
+}
+.quote {
+}
